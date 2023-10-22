@@ -137,6 +137,6 @@ jQuery(function($, undefined) {
        // 	terminal.resize([$(window).width(),$(window).height()]);
        // 	terminal.reset();
         //},
-        prompt: "[[b;#00c40d;]ali-karami.ir> ]"
+        prompt: "[[b;#00c40d;]saratorkaman.ir> ]"
     });
 });
